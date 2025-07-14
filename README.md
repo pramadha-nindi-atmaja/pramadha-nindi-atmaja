@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Pram, a Top Rated Freelancer with 5+ years of web application development experience and over 150+ projects. I prioritize strong, honest communication. Passionate and detail-oriented, I love solving problems. I thrive in collaborative environments, supporting growth individually. Competitive and always evolving with the latest industry standards.
 
-<!--
-**pramadha-nindi-atmaja/pramadha-nindi-atmaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Serving the best result for your satisfaction is my priority.
 
-Here are some ideas to get you started:
+My Service:
+✔ AI Integration
+✔ SaaS App Development
+✔ API Development & Documentation
+✔ Website Development
+✔ Database Architecture
+✔ Performance Optimization
+✔ E-commerce Development
+✔ Integration & Migration
+✔ Landing Page
+✔ Company Profile
+✔ AWS Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills: 💻 Programming Languages: Javascript, PHP, Python
+🔎 Frameworks: React, Vue, Next, Laravel, Node, Typescript
+🖌️ Markup & Styling: HTML, CSS, Javascript, React, Laravel Blade, Laravel Livewire, Laravel Inertia, Bootstrap, Tailwind, jQuery
+💾 Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Firebase, Oracle
+🔶 Versioning control: Git
+🔷 Soft skill: Leadership, Availability, Fluent in English, Good Communication
