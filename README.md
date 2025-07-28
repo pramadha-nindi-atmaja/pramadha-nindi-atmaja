@@ -20,10 +20,10 @@ I specialize in building robust web applications, driven by a commitment to hone
 
 * ✨ AI Integration
 * 🚀 SaaS App Development
-* API Development & Documentation
+* 🔗 API Development & Documentation
 * 🌐 Website Development
 * 🗄️ Database Architecture
-* Performance Optimization
+* ⚡ Performance Optimization
 * 🛒 E-commerce Development
 * 🔄 Integration & Migration
 * 📄 Landing Page
