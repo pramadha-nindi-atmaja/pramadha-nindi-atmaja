@@ -1,29 +1,29 @@
-# Pram: Top-Rated Web Application Developer 👋
+# Pramadha Nindi Atmaja
 
-**5+ tahun | 150+ Proyek | Top-Rated Freelancer**
+**5+ years | 150+ Projects | Top-Rated Freelancer**
 
-Saya spesialis dalam membangun aplikasi web yang tangguh, didorong oleh komitmen terhadap **komunikasi yang jujur** dan **pemecahan masalah**. Prioritas utama saya adalah memberikan hasil yang luar biasa dan membina kolaborasi yang sukses.
-
----
-
-### Kekuatan Saya
-
-* **Keahlian:** Pengalaman luas dalam pengembangan aplikasi web.
-* **Komunikasi:** Jelas, lugas, dan jujur.
-* **Berorientasi Detail:** Bersemangat dalam memecahkan tantangan yang kompleks.
-* **Adaptif:** Terus belajar dan menerapkan standar industri terbaru.
-* **Berfokus pada Klien:** Kepuasan Anda adalah tujuan utama saya.
+I specialize in building robust web applications, driven by a commitment to honest communication and problem solving. My top priorities are delivering exceptional results and fostering successful collaborations.
 
 ---
 
-### Layanan
+### My Strengths
+
+* Expertise:** Extensive experience in web application development.
+* Communication:** Clear, straightforward, and honest.
+* Detail-oriented:** Passionate about solving complex challenges.
+* Adaptive:** Constantly learning and applying the latest industry standards.
+* Client-Focused:** Your satisfaction is my primary goal.
+
+---
+
+### Services
 
 * ✨ AI Integration
 * 🚀 SaaS App Development
-* 🔗 API Development & Documentation
+* API Development & Documentation
 * 🌐 Website Development
 * 🗄️ Database Architecture
-* ⚡ Performance Optimization
+* Performance Optimization
 * 🛒 E-commerce Development
 * 🔄 Integration & Migration
 * 📄 Landing Page
@@ -32,7 +32,7 @@ Saya spesialis dalam membangun aplikasi web yang tangguh, didorong oleh komitmen
 
 ---
 
-### Keterampilan Teknis
+### Technical Skills
 
 * **Bahasa:**
         <p>
