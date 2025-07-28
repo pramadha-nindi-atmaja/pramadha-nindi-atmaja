@@ -8,11 +8,11 @@ I specialize in building robust web applications, driven by a commitment to hone
 
 ### My Strengths
 
-* Expertise:** Extensive experience in web application development.
-* Communication:** Clear, straightforward, and honest.
-* Detail-oriented:** Passionate about solving complex challenges.
-* Adaptive:** Constantly learning and applying the latest industry standards.
-* Client-Focused:** Your satisfaction is my primary goal.
+* **Expertise:** Extensive experience in web application development.
+* **Communication:** Clear, straightforward, and honest.
+* **Detail-oriented:** Passionate about solving complex challenges.
+* **Adaptive:** Constantly learning and applying the latest industry standards.
+* **Client-Focused:** Your satisfaction is my primary goal.
 
 ---
 
