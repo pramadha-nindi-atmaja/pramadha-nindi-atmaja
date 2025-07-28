@@ -1,24 +1,40 @@
-Hi, I'm Pram, a Top Rated Freelancer with 5+ years of web application development experience and over 150+ projects. I prioritize strong, honest communication. Passionate and detail-oriented, I love solving problems. I thrive in collaborative environments, supporting growth individually. Competitive and always evolving with the latest industry standards.
+# Pram: Your Partner in Web Application Excellence 👋
 
-Serving the best result for your satisfaction is my priority.
+As a **Top-Rated Freelancer** with 5+ years and 150+ projects under my belt, I'm dedicated to delivering high-quality web solutions. My approach is rooted in **strong, honest communication** and a passion for problem-solving. I thrive on collaborating to achieve shared success and ensure client satisfaction.
 
-My Service:<br>
-✔ AI Integration<br>
-✔ SaaS App Development<br>
-✔ API Development & Documentation<br>
-✔ Website Development<br>
-✔ Database Architecture<br>
-✔ Performance Optimization<br>
-✔ E-commerce Development<br>
-✔ Integration & Migration<br>
-✔ Landing Page<br>
-✔ Company Profile<br>
-✔ AWS Services<br>
+---
 
-Technical Skills:<br>
-💻 Programming Languages: Javascript, PHP, Python<br>
-🔎 Frameworks: React, Vue, Next, Laravel, Node, Typescript<br>
-🖌️ Markup & Styling: HTML, CSS, Javascript, React, Laravel Blade, Laravel Livewire, Laravel Inertia, Bootstrap, Tailwind, jQuery<br>
-💾 Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Firebase, Oracle<br>
-🔶 Versioning control: Git<br>
-🔷 Soft skill: Leadership, Availability, Fluent in English, Good Communication<br>
+### Why Work With Me?
+
+* **Experienced & Reliable:** Extensive background in web app development with a proven track record.
+* **Transparent Communication:** Always clear and upfront in every interaction.
+* **Problem-Solving Focus:** Detail-oriented and committed to finding effective solutions.
+* **Collaborative Spirit:** I believe in supporting individual and collective growth.
+* **Committed to Excellence:** Constantly evolving to meet the latest industry standards and deliver superior results.
+
+---
+
+### Services I Offer
+
+* AI Integration
+* SaaS App Development
+* API Development & Documentation
+* Website Development
+* Database Architecture
+* Performance Optimization
+* E-commerce Development
+* Integration & Migration
+* Landing Page
+* Company Profile
+* AWS Services
+
+---
+
+### Tech Stack
+
+* **Programming Languages:** Javascript, PHP, Python
+* **Frameworks:** React, Vue, Next, Laravel, Node, Typescript
+* **Markup & Styling:** HTML, CSS, Javascript, React, Laravel Blade, Laravel Livewire, Laravel Inertia, Bootstrap, Tailwind, jQuery
+* **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB, Firebase, Oracle
+* **Version Control:** Git
+* **Key Soft Skills:** Leadership, Availability, Fluent in English, Good Communication
