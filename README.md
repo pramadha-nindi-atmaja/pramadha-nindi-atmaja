@@ -70,8 +70,8 @@ I specialize in building robust web applications, driven by a commitment to hone
           <p>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="20"/>
           </p>
-* **Soft Skills:**
-   🤝 Leadership
+* **Soft Skills:** <br>
+    * 🤝 Leadership
     * ⏰ Availability
     * 🗣️ Fluent in English
     * 💬 Good Communication
