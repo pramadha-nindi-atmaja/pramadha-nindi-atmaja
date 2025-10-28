@@ -6,11 +6,6 @@ My top priorities are delivering exceptional results and fostering successful co
 
 ---
 
-## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=pramadha-nindi-atmaja&theme=onedark&margin-w=10&margin-h=10)
-
----
-
 ## 💪 My Strengths  
 
 - **Expertise:** Extensive experience in modern web application development  
@@ -43,7 +38,7 @@ My top priorities are delivering exceptional results and fostering successful co
 ---
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramadha-nindi-atmaja&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=pramadha-nindi-atmaja&theme=github-dark-blue)
 
 ---
 
