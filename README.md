@@ -42,11 +42,6 @@ My top priorities are delivering exceptional results and fostering successful co
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=pramadha-nindi-atmaja&theme=github-dark-blue)
-
----
-
 ## 🧠 Technical Skills  
 
 ### 📝 Languages  
