@@ -76,8 +76,11 @@ I specialize in building robust web applications, driven by a commitment to hone
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.upwork.com/freelancers/pramadha)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.upwork.com/freelancers/pramadha)
           </p>
-* **Soft Skills:** <br>
-    * 🤝 Leadership
-    * ⏰ Availability
-    * 🗣️ Fluent in English
-    * 💬 Good Communication
+
+
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramadha-nindi-atmaja&layout=compact&theme=github_dark&langs_count=8)
+
+
+
