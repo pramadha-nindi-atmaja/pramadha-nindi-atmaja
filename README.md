@@ -5,7 +5,11 @@
 I specialize in building robust web applications, driven by a commitment to honest communication and problem solving. My top priorities are delivering exceptional results and fostering successful collaborations.
 
 ---
+### My Strengths
 
+![My Strengths](https://github-profile-trophy.vercel.app/?username=pramadha-nindi-atmaja&theme=onedark&margin-w=10&margin-h=10)
+
+---
 ### My Strengths
 
 * **Expertise:** Extensive experience in web application development.
@@ -15,6 +19,9 @@ I specialize in building robust web applications, driven by a commitment to hone
 * **Client-Focused:** Your satisfaction is my primary goal.
 
 ---
+### Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramadha-nindi-atmaja&theme=github_dark)
+
 
 ### Services
 
@@ -29,6 +36,16 @@ I specialize in building robust web applications, driven by a commitment to hone
 * 📄 Landing Page
 * 🏢 Company Profile
 * ☁️ AWS Services
+
+---
+
+![Pram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramadha-nindi-atmaja&show_icons=true&theme=github_dark&hide_border=true)
+
+
+---
+### Technical Skills
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramadha-nindi-atmaja&layout=compact&theme=github_dark&langs_count=8)
 
 ---
 
@@ -76,11 +93,11 @@ I specialize in building robust web applications, driven by a commitment to hone
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.upwork.com/freelancers/pramadha)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.upwork.com/freelancers/pramadha)
           </p>
+---
 
+### GitHub Streak
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramadha-nindi-atmaja&theme=github-dark-blue)
 
-### 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramadha-nindi-atmaja&layout=compact&theme=github_dark&langs_count=8)
-
-
+---
 
