@@ -16,11 +16,6 @@ My top priorities are delivering exceptional results and fostering successful co
 
 ---
 
-## 📈 Profile Summary  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramadha-nindi-atmaja&theme=github_dark)
-
----
-
 ## 💼 Services  
 
 - ✨ AI Integration  
