@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with **5+ years of experience** and **45+ projects** delivered for startups, agencies, and businesses across various industries.
+Full Stack Developer with **45+ projects** delivered for startups, agencies, and businesses across various industries.
 
 I build **fast, maintainable, and scalable web applications** — from SaaS platforms and internal dashboards to e-commerce systems and API services. I work across the full stack with a strong preference for clean architecture and pragmatic solutions.
 
