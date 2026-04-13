@@ -5,7 +5,7 @@
   <a href="https://www.upwork.com/freelancers/~01a2237597f0f45469" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Available-6fda44?logo=upwork&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=pramadha-nindi-atmaja&color=brightgreen" />
 </p>
 
 ---
