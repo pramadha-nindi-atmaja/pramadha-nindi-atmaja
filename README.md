@@ -78,15 +78,6 @@ I build **fast, maintainable, and scalable web applications** — from SaaS plat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📬 Get In Touch
 
 If you're building something and need a reliable full stack partner — let's talk.
