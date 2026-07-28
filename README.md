@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pramadha 👋</h1>
-<h3 align="center">Full Stack Developer — React · Next.js · Vue · Laravel · TypeScript</h3>
+<h3 align="center">Reliable Full-Stack Developer & AI Automation Expert</h3>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01a2237597f0f45469" target="_blank">
@@ -14,7 +14,7 @@
 
 Full Stack Developer with **45+ projects** delivered for startups, agencies, and businesses across various industries.
 
-I build **fast, maintainable, and scalable web applications** — from SaaS platforms and internal dashboards to e-commerce systems and API services. I work across the full stack with a strong preference for clean architecture and pragmatic solutions.
+I build modern web applications, **AI automation**, and backend systems. With **5+ years** of experience, I deliver secure, scalable, and **production-ready** solutions powered by **AI**..
 
 - 🔭 Currently working on SaaS and marketplace projects
 - 🌍 Based in Semarang, Indonesia — available for remote work globally
@@ -69,12 +69,14 @@ I build **fast, maintainable, and scalable web applications** — from SaaS plat
 
 | Area | Details |
 |---|---|
-| **SaaS Platforms** | Multi-tenant apps, subscription billing, role-based access |
-| **E-commerce** | Custom storefronts, payment integration, inventory systems |
-| **Internal Tools & Dashboards** | Admin panels, reporting systems, workflow automation |
-| **API Services** | REST API design, third-party integrations, documentation |
-| **AI Integrations** | LLM-powered features, automation workflows |
-| **Cloud & DevOps** | AWS deployment, Docker, CI/CD pipelines |
+| **AI Automation** | n8n, OpenAI API, Claude API, Gemini API, AI Agents, Workflow Automation |
+| **Laravel** | REST APIs, Service Pattern, Sanctum, Queue Workers, Webhook Handling |
+| **React & Next.js** | App Router, Server & Client Components, SSR, SPA, TypeScript |
+| **Full-Stack Development** | End-to-End Web Applications, Authentication, Role Management |
+| **Backend Architecture** | Clean Architecture, Modular Design, Microservices, Docker |
+| **Database** | MySQL, PostgreSQL, Supabase (Auth & RLS), Redis |
+| **Third-Party Integration** | OAuth2, Webhooks, Payment Gateway (Stripe, Midtrans), External APIs |
+| **Cloud & Deployment** | AWS, Docker, CI/CD, Production Deployment |
 
 ---
 
