@@ -16,10 +16,6 @@ Full Stack Developer with **45+ projects** delivered for startups, agencies, and
 
 I build modern web applications, **AI automation**, and backend systems. With **5+ years** of experience, I deliver secure, scalable, and **production-ready** solutions powered by **AI**..
 
-- 🔭 Currently working on SaaS and marketplace projects
-- 🌍 Based in Semarang, Indonesia — available for remote work globally
-- ⚡ Stack: React / Next.js / Vue · Laravel / Node.js · TypeScript · MySQL / PostgreSQL · Docker · AWS
-
 ---
 
 ## 🛠️ Tech Stack
