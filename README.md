@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pramadha 👋</h1>
-<h3 align="center">WordPress Expert | Elementor | Wix Developer | Landing Page Specialist</h3>
+<h3 align="center">WordPress Developer | Elementor | WooCommerce | SEO & AI Search (GEO)</h3>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01a2237597f0f45469" target="_blank">
@@ -12,11 +12,9 @@
 
 ## 👨‍💻 About Me
 
-Is your WordPress website slow, outdated, or not bringing in customers?
+WordPress Developer & SEO Specialist with **5+ years** of experience and **45+ websites** completed for businesses and clients.
 
-I build fast, modern, and **SEO-friendly WordPress websites**, **landing pages**, and **Wix websites** that turn visitors into leads and customers.
-
-With **5+ years** of experience in WordPress development, web design, and full-stack development, and **40+ websites delivered**, I build custom websites, WooCommerce stores, and landing pages that look professional and perform.
+I specialize in **WordPress, Elementor, WooCommerce, SEO, and AI Search (GEO)**. I build modern, fast, secure, **SEO-friendly**, and **conversion-focused** websites that help businesses attract visitors, build trust, and generate more leads.
 
 ---
 
@@ -36,7 +34,6 @@ With **5+ years** of experience in WordPress development, web design, and full-s
   <img src="https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=white" />
 </p>
 
 ### Styling
@@ -45,10 +42,17 @@ With **5+ years** of experience in WordPress development, web design, and full-s
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 </p>
 
-### SEO & Tools
+### SEO & AI Search
 <p align="left">
   <img src="https://img.shields.io/badge/Yoast_SEO-A4286A?logo=yoast&logoColor=white" />
-  <img src="https://img.shields.io/badge/Search_Console-458CF5?logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Overviews-4285F4?logo=google&logoColor=white" />
+</p>
+
+### Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
@@ -60,18 +64,22 @@ With **5+ years** of experience in WordPress development, web design, and full-s
 
 | Area | Details |
 |---|---|
-| **Custom WordPress Websites** | Business Sites, Portfolios, Blogs, Company Profiles |
-| **Themes & Elementor Pro** | Pixel-Perfect WordPress Web Design, Fully Responsive |
-| **WooCommerce Stores** | Online Shops, Secure Checkout, Easy Product Management |
-| **Landing Pages** | High-Converting Pages for Ads, Launches, and Lead Generation |
-| **Wix Websites & Redesigns** | Modern, Mobile-Friendly Wix Design |
-| **Speed, SEO & Security** | Faster Loading, Better Rankings, Safer Websites |
-| **Migration & Maintenance** | WordPress ↔ Webflow ↔ Wix Transfers, Updates, Bug Fixes |
+| **WordPress & Elementor Development** | Custom Websites, Themes, Pixel-Perfect and Fully Responsive Builds |
+| **Website Design & Redesign** | Modern, Professional Design Aligned With Your Brand |
+| **Landing Pages & CRO** | High-Converting Pages for Ads, Launches, and Lead Generation |
+| **WooCommerce & E-commerce** | Online Shops, Secure Checkout, Easy Product Management |
+| **SEO & Technical SEO** | Clean Site Structure, Mobile Optimization, Search-Friendly Pages |
+| **AI Search Optimization (GEO)** | Visibility in ChatGPT, Google AI Overviews, and AI-Powered Search |
+| **Speed & Performance** | Faster Loading, Optimized Assets, Better User Experience |
+| **Security & Hardening** | Updates, Hardening, Protection Against Common WordPress Issues |
+| **Wix Development** | Modern, Mobile-Friendly Wix Websites and Redesigns |
+| **AI Integration & Automation** | Workflow Automation and AI Features for Your Website |
+| **Migration & Maintenance** | Website Transfers, Updates, Bug Fixing & Improvements |
 
 ---
 
 ## 📬 Get In Touch
 
-If your website is slow, outdated, or not bringing in customers, let's fix that.
+Need help with your WordPress website, SEO, or online presence? Send me a message and let's find the best solution for your website.
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01a2237597f0f45469)
